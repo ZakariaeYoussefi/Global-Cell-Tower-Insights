@@ -4,6 +4,8 @@
 
 This project involves the analysis of a large-scale cell tower dataset that contains over 46 million records of geographic coordinates and network information for cell tower locations across the globe. The dataset provides valuable insights into the distribution and coverage of cell towers by mobile network operators. The project includes data cleaning, data enrichment, and spatial analysis using various Python libraries.
 
+You can View the `Folium Map` by opening the notebook in my kaggle code [Here](https://www.kaggle.com/code/zakariaeyoussefi/cell-tower-analysis)
+
 
 I couldn't upload the csv files since the github limit file upload on 25MB, but you can find the dataset on my kaggle in [This Link](https://www.kaggle.com/datasets/zakariaeyoussefi/cell-towers-worldwide-location-data-by-continent)
 ## Libraries Used
